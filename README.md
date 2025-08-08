@@ -52,9 +52,22 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <li /><a href="https://drive.google.com/file/d/18XuxVGtWWTFg9-1dIPK9HtohebcriscX/view?usp=drive_link">video</a>
 </ul>
 
-### Lecture 5
+### Lecture 5 : Basic C programming with ESP8266 and Arduino IDE
 
-### Lecture 6
+<ul>
+<li /><a href="/lecture5/eeiot24_lect5_esp8266.pdf">Slides</a>
+<li /><a href="/lecture5/sw">Arduino program files</a>  
+<li /><a href="https://drive.google.com/file/d/1gwYRpl_tWkOHA_99tHDWRT_Tlu48Syna/view?usp=drive_link">video</a>
+</ul>
+
+### Lecture 6 : Introducint NETPIE2020 & workshop
+
+<ul>
+<li /><a href="/lecture6/eeiot24_lect6_introNETPIE2020_en_mod.pdf">Slides</a> (originally from <a href="https://netpie.io/">NETPIE</a>)
+<li /><a href="/lecture6/sw">Arduino program files</a>  
+<li /><a href="https://drive.google.com/file/d/1IuAczYRh0t-vO1b94k-lrJsBIH6E20m4/view?usp=drive_link">video</a>
+</ul>
+
 
 ### Lecture 7
 
