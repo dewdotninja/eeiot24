@@ -19,10 +19,14 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 
 <ul>
 <li /><a href="/lecture0/eeiot24_lect0.pdf">Slides</a>
-<li /><a href="https://drive.google.com/file/d/103Xyqa3QNfqqRnlNlEcRSFPlgwezopyK/view?usp=drive_link">video</a>
 </ul>
 
 ### Lecture 1
+<ul>
+<li /><a href="/lecture1/eeiot24_lect01.pdf">Slides</a>
+<li /><a href="/exercises/">Exercises</a>
+<li /><a href="https://drive.google.com/file/d/1_NplX2Tpb25E9cA2rmC1_r46rkyWKwa2/view?usp=drive_link">video</a>
+</ul>
 
 ### Lecture 2
 
