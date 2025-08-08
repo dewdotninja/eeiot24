@@ -2,6 +2,15 @@
 
 ## Academic year 2024
 
+<table>
+<tr>
+<td>c1</td>
+<td>c2</td>
+</tr>
+  
+</table>
+
+
 The materials in this repo are from my course above. 
 
 ### Lecture 0
