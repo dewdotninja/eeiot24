@@ -98,13 +98,12 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <ul>
 <li /><a href="/lecture9/r2sim_iot.pdf">Slides</a>
 <li /><a href="/lecture9/notebook/adjusted/r2_iot.ipynb">Jupyter notebook</a>  
-<li /><a href="https://drive.google.com/file/d/1837zihq-hUFT8dGyX7gqCmnrDDH0zMo4/view?usp=drive_link">video</a>
 </ul>
 
 ### Supplement : Developing custion GUI for IoT with tkinter and paho-mqtt
 
 <ul>
-<li />  
+<li /><a href="https://drive.google.com/file/d/1MHs-beEiSfP_8Hf80mdK7mDDmi17_Ed6/view?usp=drive_link">Video</a>  
 </ul>
 
 
