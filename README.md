@@ -60,7 +60,7 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <li /><a href="https://drive.google.com/file/d/1gwYRpl_tWkOHA_99tHDWRT_Tlu48Syna/view?usp=drive_link">video</a>
 </ul>
 
-### Lecture 6 : Introducint NETPIE2020 & workshop
+### Lecture 6 : Introducing NETPIE2020 & workshop
 
 <ul>
 <li /><a href="/lecture6/eeiot24_lect6_introNETPIE2020_en_mod.pdf">Slides</a> (originally from <a href="https://netpie.io/">NETPIE</a>)
@@ -81,7 +81,7 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 ### Lecture 8 : Micropython development on ESP32 (IoT)
 
 <ul>
-<li /><a href="/lecture8/eeiot24_lect8.pdf">Slides</a>
+<li /><a href="/lecture8/eeIoT24_lect8.pdf">Slides</a>
 <li /><a href="/lecture8/upython">Micropython files</a>  
 <li /><a href="/lecture8/supplement/NETPIE2020">NETPIE Supplement</a>    
 <li />Videos
