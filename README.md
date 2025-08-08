@@ -15,11 +15,11 @@
 The materials in this repo are from my course above, conducted in semester 1 of academic year 2024 
 (International Undergrauate Program).
 
-### Lecture 0
-Course introduction
+### Lecture 0 : Course introduction
+
 <ul>
 <li /><a href="/lecture0/eeiot24_lect0.pdf">Slides</a>
-
+<li /><a href="https://drive.google.com/file/d/103Xyqa3QNfqqRnlNlEcRSFPlgwezopyK/view?usp=drive_link">video</a>
 </ul>
 
 ### Lecture 1
