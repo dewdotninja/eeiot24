@@ -28,9 +28,21 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <li /><a href="https://drive.google.com/file/d/1_NplX2Tpb25E9cA2rmC1_r46rkyWKwa2/view?usp=drive_link">video</a>
 </ul>
 
-### Lecture 2
+### Lecture 2 : AC circuits & time varying signals
+<ul>
+<li /><a href="/lecture2/eeiot24_lect2.pdf">Slides</a>
+<li /><a href="/lecture2/notebooks/">Exercises</a>
+<li /><a href="https://drive.google.com/file/d/16CDpHYhhA1cyoeB0jJyDD_Ny1SGLyTg3/view?usp=drive_link">video</a>
+</ul>
 
-### Lecture 3
+### Lecture 3 : Op-amps and signal conditioning
+<ul>
+<li /><a href="/lecture3/eeiot24_lecture3.pdf">Slides</a>
+<li /><a href="/lecture3/lect3_supplement_lag3.pdf">Supplement slides (LAG3 board design)</a>
+<li /><a href="/lecture3/notebook/">Exercises</a>
+<li /><a href="/lecture3/easyeda/EasyEDA_sch.zip">EasyEDA schematics</a>
+<li /><a href="https://drive.google.com/file/d/1Rt77tdn-j_9e3hVSf08uHtTYY40xgsRZ/view?usp=drive_link">video</a>
+</ul>
 
 ### Lecture 4
 
