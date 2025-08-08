@@ -4,8 +4,9 @@
 
 <table>
 <tr>
-<td>c1</td>
-<td>c2</td>
+<td><img src="figP5_1png.png" /></td>
+<td><img src="dashboard_w_feed.png" /></td>
+<td><img src="lag3_complete_flow_workarea.png" /></td>
 </tr>
   
 </table>
