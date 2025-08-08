@@ -18,7 +18,7 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 ### Lecture 0
 Course introduction
 <ul>
-<li />["Slides"][/lecture0/eeiot24_lect0.pdf]
+<li />["Slides"](/lecture0/eeiot24_lect0.pdf)
 
 </ul>
 
