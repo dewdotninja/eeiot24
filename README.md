@@ -4,9 +4,9 @@
 
 <table>
 <tr>
-<td><img src="figP5_1png.png" /></td>
-<td><img src="dashboard_w_feed.png" /></td>
-<td><img src="lag3_complete_flow_workarea.png" /></td>
+<td><img src="figP5_1png.png" width=300 /></td>
+<td><img src="dashboard_w_feed.png" width=300 /></td>
+<td><img src="lag3_complete_flow_workarea.png" width=300 /></td>
 </tr>
   
 </table>
