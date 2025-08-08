@@ -12,7 +12,8 @@
 </table>
 
 
-The materials in this repo are from my course above. 
+The materials in this repo are from my course above, conducted in semester 1 of academic year 2024 
+(International Undergrauate Program).
 
 ### Lecture 0
 
