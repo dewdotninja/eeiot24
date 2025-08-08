@@ -21,7 +21,7 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <li /><a href="/lecture0/eeiot24_lect0.pdf">Slides</a>
 </ul>
 
-### Lecture 1
+### Lecture 1 : Basic circuit analysis and simulation
 <ul>
 <li /><a href="/lecture1/eeiot24_lect01.pdf">Slides</a>
 <li /><a href="/lecture1/exercises/">Exercises</a>
