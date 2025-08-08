@@ -40,11 +40,17 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <li /><a href="/lecture3/eeiot24_lecture3.pdf">Slides</a>
 <li /><a href="/lecture3/lect3_supplement_lag3.pdf">Supplement slides (LAG3 board design)</a>
 <li /><a href="/lecture3/notebook/">Exercises</a>
-<li /><a href="/lecture3/easyeda/EasyEDA_sch.zip">EasyEDA schematics</a>
+<li /><a href="/lecture3/easyeda/">EasyEDA schematics</a>
 <li /><a href="https://drive.google.com/file/d/1Rt77tdn-j_9e3hVSf08uHtTYY40xgsRZ/view?usp=drive_link">video</a>
 </ul>
 
-### Lecture 4
+### Lecture 4 : Introduction to Wokwi simulation
+
+<ul>
+<li /><a href="/lecture4/eeiot24_lect4.pdf">Slides</a>
+<li /><a href="/lecture4/c_code.ipynb">C-code</a>  
+<li /><a href="https://drive.google.com/file/d/18XuxVGtWWTFg9-1dIPK9HtohebcriscX/view?usp=drive_link">video</a>
+</ul>
 
 ### Lecture 5
 
