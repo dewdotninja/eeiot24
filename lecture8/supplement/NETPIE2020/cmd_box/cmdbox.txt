@@ -1,0 +1,3 @@
+<input id="cmdbox" type="text" style="width: 50%;">
+<input type="button" value="Send" style="width: 30%;" onclick="_device['esp32'].publishMsg('cmd',
+document.getElementById('cmdbox').value).toString() ">
