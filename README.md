@@ -69,12 +69,43 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 </ul>
 
 
-### Lecture 7
+### Lecture 7 : Micropython development on ESP32 (basic)
 
-### Lecture 8
+<ul>
+<li /><a href="/lecture7/eeiot24_lect7.pdf">Slides</a>
+<li /><a href="/lecture7/upython">Micropython files</a>  
+<li /><a href="https://drive.google.com/file/d/1837zihq-hUFT8dGyX7gqCmnrDDH0zMo4/view?usp=drive_link">video</a>
+</ul>
 
-### Lecture 9
 
+### Lecture 8 : Micropython development on ESP32 (IoT)
+
+<ul>
+<li /><a href="/lecture8/eeiot24_lect8.pdf">Slides</a>
+<li /><a href="/lecture8/upython">Micropython files</a>  
+<li /><a href="/lecture8/supplement/NETPIE2020">NETPIE Supplement</a>    
+<li />Videos
+<ul>
+<li /><a href="https://drive.google.com/file/d/1rJemUuR-oMKEGWR8FRUP8vxl-ySkt-u2/view?usp=drive_link">Part I</a>
+<li /><a href="https://drive.google.com/file/d/17j0FJPsJOmOz7582rOnx72g0DTFSEHCI/view?usp=drive_link">Part II</a>
+<li /><a href="https://drive.google.com/file/d/1aciho5Od2_nCr0I1Ch_ZB0VH1fZIPp34/view?usp=drive_link">Part II (fixed)</a>
+<li /><a href="https://drive.google.com/file/d/1A4wb_oSm9h8IKKGPO6hilmP_CQ-l5wCt/view?usp=drive_link">Part III</a>  
+</ul>
+</ul>
+
+### Lecture 9 : 2-link manipulator simulation
+
+<ul>
+<li /><a href="/lecture9/r2sim_iot.pdf">Slides</a>
+<li /><a href="/lecture9/notebook/adjusted/r2_iot.ipynb">Jupyter notebook</a>  
+<li /><a href="https://drive.google.com/file/d/1837zihq-hUFT8dGyX7gqCmnrDDH0zMo4/view?usp=drive_link">video</a>
+</ul>
+
+### Supplement : Developing custion GUI for IoT with tkinter and paho-mqtt
+
+<ul>
+<li />  
+</ul>
 
 
 
