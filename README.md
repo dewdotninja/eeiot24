@@ -113,7 +113,17 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 </ul>
 </ul>
 
+### Homework assignments
 
+<ul>
+  <li /><a href="/assignments/EEIoT_hw1.ipynb">Homework 1</a>
+  <li /><a href="/assignments/eeiot24_hw1.ipynb">Homework 2</a>
+  <li /><a href="/assignments/eeiot24_hw1.ipynb">Homework 3</a>
+  <li /><a href="/assignments/iai_iot24_hw4_en.ipynb">Homework 4</a>
+  <li /><a href="/assignments/eeiot24_hw5_en.ipynb">Homework 5</a>
+  <li /><a href="/assignments/eeiot24_hw6.ipynb">Homework 6</a>
+    
+</ul>
 
 ### Supplement 
 
