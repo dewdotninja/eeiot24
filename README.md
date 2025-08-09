@@ -100,12 +100,28 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <li /><a href="/lecture9/notebook/adjusted/r2_iot.ipynb">Jupyter notebook</a>  
 </ul>
 
-### Supplement : Developing custion GUI for IoT with tkinter and paho-mqtt
+### Supplement 
+
+* Developing custion GUI for IoT with tkinter and paho-mqtt
 
 <ul>
 <li /><a href="https://drive.google.com/file/d/1MHs-beEiSfP_8Hf80mdK7mDDmi17_Ed6/view?usp=drive_link">Video</a>  
 </ul>
 
+* Nodered installation
+
+<ul>
+ <li /><a href="https://drive.google.com/file/d/1kXspLwqtbl0rhISKbthKM66mBQuGwII8/view">Windows</a>
+ <li /><a href="https://drive.google.com/file/d/1HUq8EDAtkq8gw9PSxd9MztDhysPOxG0F/view">Mac</a>
+</ul>
+
+* Selected videos from my youtube channel
+
+<ul>
+  <li /><a href="https://youtu.be/K0r-IcMNchM?si=-7WRi9uh3-haLpP4">Multi-tasking with FreeRTOS</a>
+  <li /><a href="https://youtu.be/MLha1sB63ZE?si=n8VA38JFbpWbpiEF">SGIoT Example of developing an IoT device with FreeRTOS (Note: NETPIE Freeboard is obsolete. It should be replaced by dashboard).</a>
+  <li /><a href="https://youtu.be/1FrvX07FSEM?si=oQtKlHxbXADM1G2k">Micopython OOP</a>
+</ul>
 
 
 
