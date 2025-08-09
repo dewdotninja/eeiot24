@@ -63,7 +63,7 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 ### Lecture 6 : Introducing NETPIE2020 & workshop
 
 <ul>
-<li /><a href="/lecture6/eeiot24_lect6_introNETPIE2020_en_mod.pdf">Slides</a> (originally from <a href="https://netpie.io/">NETPIE</a>)
+<li /><a href="/lecture6/lect6_introNETPIE2020_en_mod.pdf">Slides</a> (originally from <a href="https://netpie.io/">NETPIE</a>)
 <li /><a href="/lecture6/sw">Arduino program files</a>  
 <li /><a href="https://drive.google.com/file/d/1IuAczYRh0t-vO1b94k-lrJsBIH6E20m4/view?usp=drive_link">video</a>
 </ul>
