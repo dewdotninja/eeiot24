@@ -98,7 +98,22 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <ul>
 <li /><a href="/lecture9/r2sim_iot.pdf">Slides</a>
 <li /><a href="/lecture9/notebook/adjusted/r2_iot.ipynb">Jupyter notebook</a>  
+<li /><a href="https://drive.google.com/file/d/1U5KJnT18j_DyQ8Bw79lOdNd43y6asLIz/view?usp=sharing">Video</a>
 </ul>
+
+### Lecture 10 : Mobile robots
+
+<ul>
+<li /><a href="/lecture10/ddrobot.pdf">Slides</a>
+<li /><a href="/lecture10/notebooks/">Jupyter notebooks</a>  
+<li />Videos
+<ul>
+<li /><a href="https://drive.google.com/file/d/1BX1656HViGbpI9GIUkF2MI54ag9U3HJZ/view?usp=drive_link">Part I</a>
+<li /><a href="https://www.youtube.com/watch?v=qE_U3MgJuqg">Part II</a>  
+</ul>
+</ul>
+
+
 
 ### Supplement 
 
@@ -113,6 +128,11 @@ The materials in this repo are from my course above, conducted in semester 1 of 
 <ul>
  <li /><a href="https://drive.google.com/file/d/1kXspLwqtbl0rhISKbthKM66mBQuGwII8/view">Windows</a>
  <li /><a href="https://drive.google.com/file/d/1HUq8EDAtkq8gw9PSxd9MztDhysPOxG0F/view">Mac</a>
+</ul>
+
+* Fixing Wokwi wifi problem
+<ul>
+  <li /><a href="https://www.youtube.com/watch?v=-kqQeHqXnEg">Video</a>
 </ul>
 
 * Selected videos from my youtube channel
